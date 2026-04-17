@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP CSS Grid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="box box1">
+        <img src="https://picsum.photos/300?random=1" alt="nature">
+        <h2>Nature</h2>
+        <p>Cette boîte présente la nature</p>
+        <button>Voir</button>
+    </div>
+
+    <div class="box box2">
+        <img src="https://picsum.photos/300?random=2" alt="technologie">
+        <h2>Technologie</h2>
+        <p>Cette boîte parle de la technologie</p>
+        <button>Voir</button>
+    </div>
+
+    <div class="box box3">
+        <img src="https://picsum.photos/300?random=3" alt="animaux">
+        <h2>Animaux</h2>
+        <p>Cette boîte contient des animaux</p>
+        <button>Voir</button>
+    </div>
+
+    <div class="box box4">
+        <img src="https://picsum.photos/300?random=4" alt="voyage">
+        <h2>Voyage</h2>
+        <p>Cette boîte concerne le voyage</p>
+        <button>Voir</button>
+    </div>
+
+    <div class="box box5">
+        <img src="https://picsum.photos/300?random=5" alt="nourriture">
+        <h2>Nourriture</h2>
+        <p>Cette boîte montre la nourriture</p>
+        <button>Voir</button>
+    </div>
+
+    <div class="box box6">
+        <img src="https://picsum.photos/300?random=6" alt="sport">
+        <h2>Sport</h2>
+        <p>Cette boîte parle du sport</p>
+        <button>Voir</button>
+    </div>
+
+</div>
+
+</body>
+</html>
